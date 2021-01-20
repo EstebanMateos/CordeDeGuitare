@@ -33,8 +33,8 @@ if (PrI==2)
   W=cos(2*pi*f*X/L);
 end
 
-
 if (PrI==3)
+% Dirac
 M(pert_init,1) = 0.05;
 
 
